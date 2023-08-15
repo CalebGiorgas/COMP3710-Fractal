@@ -37,6 +37,8 @@ for i in range(200):
 import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(16,10))
 
+# below code provided by Shakes Chandra as part of
+# UQ course COMP3710
 def processFractal(a):
     """Display an array of iteration counts as a
     colorful picture of a fractal."""
